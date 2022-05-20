@@ -4,6 +4,7 @@ public class Desktop implements Software,HardWare {
 	
 	public void desktopModel() {
 		System.out.println("desktopModel is 0.8");
+		System.out.println("desktopModel is 0.8");
 	}
 
 	@Override
